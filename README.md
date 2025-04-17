@@ -11,4 +11,4 @@
 - SQL (PostgreSQL, MySQL)
 - Dashboard building with Streamlit / Power BI
 
-Let's connect: [LinkedIn](www.linkedin.com/in/thodsaphon-chamnansuek-318642355) | [Email](mailto:your@email.com)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/thodsaphon-chamnansuek-318642355) | [Email](mailto:thodsaphol.cha@gmail.com)
