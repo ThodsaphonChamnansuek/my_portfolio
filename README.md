@@ -35,10 +35,9 @@ I'm passionate about turning raw data into actionable insights through analysis,
 
 | Project | Description | Tools |
 |--------|-------------|--------|
-| [📊 Superstore Sales Analysis] (https://github.com/ThodsaphonChamnansuek/Superstore_Sales_Analysis.git)| Monthly sales analysis with trend visualization and insights. | Pandas, Seaborn |
-| [🔍 Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction) | Machine learning project to predict customer churn. | Scikit-learn, XGBoost |
-| [🌐 COVID-19 Data Dashboard](https://github.com/yourusername/covid19-data-dashboard) | Interactive dashboard to visualize COVID-19 trends. | Streamlit, Plotly |
-| [🧼 Data Cleaning Practice](https://github.com/yourusername/data-cleaning-practice) | Hands-on data wrangling and transformation. | Pandas, Jupyter |
+| [📊 Superstore Sales Analysis](https://github.com/ThodsaphonChamnansuek/Superstore_Sales_Analysis.git) | Monthly sales analysis with trend visualization and insights. | Pandas, Seaborn, Matplotlib|
+| [🪨✂️📄 Pao Ying Chub (เป่ายิ้งฉุบ) Game in R](https://github.com/yourusername/customer-churn-prediction) | A simple terminal-based game of Rock-Paper-Scissors written in R. | function(), Loop |
+
 
 ---
 
