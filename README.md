@@ -36,7 +36,7 @@ I'm passionate about turning raw data into actionable insights through analysis,
 | Project | Description | Tools |
 |--------|-------------|--------|
 | [📊 Superstore Sales Analysis](https://github.com/ThodsaphonChamnansuek/Superstore_Sales_Analysis.git) | Monthly sales analysis with trend visualization and insights. | Pandas, Seaborn, Matplotlib|
-| [🪨✂️📄 Pao Ying Chub (เป่ายิ้งฉุบ) Game in R](https://github.com/yourusername/customer-churn-prediction) | A simple terminal-based game of Rock-Paper-Scissors written in R. | function(), Loop |
+| [🪨✂️📄 Pao Ying Chub Game in R](https://github.com/yourusername/customer-churn-prediction) | A simple terminal-based game of Rock-Paper-Scissors written in R. | function(), Loop |
 
 
 ---
